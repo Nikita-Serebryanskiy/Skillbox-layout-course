@@ -1,0 +1,1 @@
+in this assignment, I learned how to use table markup in html, fixed the use of img and practiced writing code
